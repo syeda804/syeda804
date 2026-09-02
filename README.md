@@ -1,12 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:38BDF8&height=220&section=header&text=Syeda%20Maryam%20Ali&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Laravel%20%26%20PHP%20%7C%20Node.js&descAlignY=58&descSize=18" width="100%"/>
+# 👋 Hi, I'm Syeda Maryam Ali
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+AI-Integrated+Web+Apps+%F0%9F%A4%96;Laravel+%2B+PHP+%2B+Node.js+Developer;Turning+Ideas+Into+Clean+Code+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%F0%9F%92%BB;Laravel+%2B+PHP+%2B+Node.js;Building+AI-Integrated+Web+Apps+%F0%9F%A4%96;Turning+Ideas+Into+Clean+Code+%E2%9C%A8" alt="Typing SVG"/>
 
-<br/>
-
-📍 &nbsp;Karachi, Pakistan &nbsp; | &nbsp; 📧 &nbsp;syedamaryam026@gmail.com
+📍 Karachi, Pakistan &nbsp;|&nbsp; 📧 syedamaryam026@gmail.com
 
 <a href="https://www.linkedin.com/in/syeda-maryam-5408382aa">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -26,7 +24,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,100:0F172A&height=4&section=header"/>
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ## 👩‍💻 About Me
 
@@ -36,7 +34,7 @@
 - 💬 Ask me about **PHP, Laravel, JavaScript, REST APIs**
 - ⚡ Fun fact: I turn coffee ☕ into clean, working code
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,100:0F172A&height=4&section=header"/>
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ## 🧰 Tech Stack
 
@@ -65,7 +63,7 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,100:0F172A&height=4&section=header"/>
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ## 🚀 Featured Project — EventHub
 
@@ -82,7 +80,7 @@
 
 🔗 Repo: [github.com/syeda804/eventhub](https://github.com/syeda804)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,100:0F172A&height=4&section=header"/>
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ## 📌 Other Projects
 
@@ -90,7 +88,7 @@
 |---|---|---|
 | [Weather App](https://github.com/syeda804) | Real-time weather lookup app with clean UI | HTML · CSS · JavaScript |
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,100:0F172A&height=4&section=header"/>
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ## 📊 GitHub Stats
 
@@ -101,11 +99,21 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=syeda804&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=syeda804&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies"/>
+</div>
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/syeda804/syeda804/output/github-contribution-grid-snake.svg" alt="Snake animation eating my contribution graph"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,100:0F172A&height=4&section=header"/>
+> ⚠️ Ye animated snake apne aap tab appear hoga jab tum niche di gayi setup file apne repo mein add karogi (2 minute ka kaam hai) — instructions neeche mein ne alag se explain kiye hain.
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <div align="center">
 
@@ -119,7 +127,5 @@
 </a>
 
 **⭐ From Syeda Maryam Ali ([syeda804](https://github.com/syeda804)) — thanks for stopping by!**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:38BDF8&height=100&section=footer"/>
 
 </div>
