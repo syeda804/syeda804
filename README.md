@@ -111,8 +111,6 @@
 
 </div>
 
-> ⚠️ Ye animated snake apne aap tab appear hoga jab tum niche di gayi setup file apne repo mein add karogi (2 minute ka kaam hai) — instructions neeche mein ne alag se explain kiye hain.
-
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <div align="center">
