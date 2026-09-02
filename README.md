@@ -1,20 +1,32 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Syeda+Maryam;Full-Stack+Developer;Laravel+%26+PHP+%7C+Node.js;Building+AI-Integrated+Web+Apps" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:38BDF8&height=220&section=header&text=Syeda%20Maryam%20Ali&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Laravel%20%26%20PHP%20%7C%20Node.js&descAlignY=58&descSize=18" width="100%"/>
 
-### 📍 Karachi, Pakistan &nbsp;•&nbsp; 📧 syedamaryam026@gmail.com
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+AI-Integrated+Web+Apps+%F0%9F%A4%96;Laravel+%2B+PHP+%2B+Node.js+Developer;Turning+Ideas+Into+Clean+Code+%E2%9C%A8" alt="Typing SVG" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syeda-maryam-5408382aa)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/syeda804)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syedamaryam026@gmail.com)
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=syeda804&style=for-the-badge&color=38BDF8" alt="Profile views" />
+📍 &nbsp;Karachi, Pakistan &nbsp; | &nbsp; 📧 &nbsp;syedamaryam026@gmail.com
+
+<a href="https://www.linkedin.com/in/syeda-maryam-5408382aa">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=syedamaryam026@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/syeda804">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=syeda804&style=for-the-badge&color=38BDF8&label=PROFILE+VIEWS" alt="Profile views"/>
 &nbsp;
-<img src="https://img.shields.io/github/followers/syeda804?style=for-the-badge&color=38BDF8&label=Followers" alt="Followers" />
+<img src="https://img.shields.io/github/followers/syeda804?style=for-the-badge&color=38BDF8&label=FOLLOWERS&logo=github&logoColor=white" alt="Followers"/>
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,100:0F172A&height=4&section=header"/>
 
 ## 👩‍💻 About Me
 
@@ -24,11 +36,11 @@
 - 💬 Ask me about **PHP, Laravel, JavaScript, REST APIs**
 - ⚡ Fun fact: I turn coffee ☕ into clean, working code
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,100:0F172A&height=4&section=header"/>
 
 ## 🧰 Tech Stack
 
-**Languages & Frameworks**
+<p><b>Languages & Frameworks</b></p>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -40,12 +52,12 @@
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-**Databases**
+<p><b>Databases</b></p>
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-**Tools & Collaboration**
+<p><b>Tools & Collaboration</b></p>
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -53,7 +65,7 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,100:0F172A&height=4&section=header"/>
 
 ## 🚀 Featured Project — EventHub
 
@@ -70,7 +82,7 @@
 
 🔗 Repo: [github.com/syeda804/eventhub](https://github.com/syeda804)
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,100:0F172A&height=4&section=header"/>
 
 ## 📌 Other Projects
 
@@ -78,28 +90,36 @@
 |---|---|---|
 | [Weather App](https://github.com/syeda804) | Real-time weather lookup app with clean UI | HTML · CSS · JavaScript |
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,100:0F172A&height=4&section=header"/>
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=syeda804&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syeda804&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api?username=syeda804&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=syeda804&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=syeda804&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=syeda804&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=syeda804&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies"/>
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,100:0F172A&height=4&section=header"/>
 
 <div align="center">
 
 ### 🤝 Let's build something great together!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syeda-maryam-5408382aa)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syedamaryam026@gmail.com)
+<a href="https://www.linkedin.com/in/syeda-maryam-5408382aa">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=syedamaryam026@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-**⭐ From [syeda804](https://github.com/syeda804) — thanks for stopping by!**
+**⭐ From Syeda Maryam Ali ([syeda804](https://github.com/syeda804)) — thanks for stopping by!**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:38BDF8&height=100&section=footer"/>
 
 </div>
